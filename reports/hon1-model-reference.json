@@ -1,0 +1,89 @@
+{
+  "schema": "hon1.model-reference.v1",
+  "model_id": "model-2",
+  "reference_directory": "data/model/model 2",
+  "face_reference": "data/model/model 2/01_chan_dung_chinh_dien.png",
+  "full_body_reference": "data/model/model 2/06_toan_than_chinh_dien.png",
+  "references": [
+    {
+      "path": "data/model/model 2/01_chan_dung_chinh_dien.png",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 2363454,
+      "sha256": "30a230e21e89c996803845142f9108f5a8b6abdbf0c863c3f4ca2c1bce0f80bc",
+      "png_check": "CRC and IDAT decompression passed",
+      "readable": true
+    },
+    {
+      "path": "data/model/model 2/02_chan_dung_3_4_trai.png",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 2399220,
+      "sha256": "ea72e75371cb70f26e91aaeeb380d453304aba58d41447f825d9c9d27108c48b",
+      "png_check": "CRC and IDAT decompression passed",
+      "readable": true
+    },
+    {
+      "path": "data/model/model 2/03_chan_dung_3_4_phai.png",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 2285436,
+      "sha256": "113981d1715215774da4bc8e3d2b2f2f8326216434e3388cac720200a0a26537",
+      "png_check": "CRC and IDAT decompression passed",
+      "readable": true
+    },
+    {
+      "path": "data/model/model 2/04_chan_dung_nghieng_trai.png",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 2084523,
+      "sha256": "9a7fe08ba9de9504a5299e00c0245abdf1852365830ed55e25fd894c3efb3076",
+      "png_check": "CRC and IDAT decompression passed",
+      "readable": true
+    },
+    {
+      "path": "data/model/model 2/05_chan_dung_nghieng_phai.png",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 2148786,
+      "sha256": "8c9a767fdb29034be76b191aa3612ffb0c80724f9d2a2c0e0dc0c2d3f691cd7b",
+      "png_check": "CRC and IDAT decompression passed",
+      "readable": true
+    },
+    {
+      "path": "data/model/model 2/06_toan_than_chinh_dien.png",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 1685095,
+      "sha256": "0b092e7541f4552ae9fc76037a97e04cf77ac914f31029f169697ef7692468b0",
+      "png_check": "CRC and IDAT decompression passed",
+      "readable": true
+    },
+    {
+      "path": "data/model/model 2/07_toan_than_nghieng.png",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 1640460,
+      "sha256": "309abc0684a939c3d77e02e3caaba9783ced163f572c322f505a01b732fe6fac",
+      "png_check": "CRC and IDAT decompression passed",
+      "readable": true
+    },
+    {
+      "path": "data/model/model 2/08_toan_than_phia_sau.png",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 1670305,
+      "sha256": "36b6b61ddb2b33e08a9bca6696b48fb37eaaa59132a488dba3540b578c48d90e",
+      "png_check": "CRC and IDAT decompression passed",
+      "readable": true
+    }
+  ],
+  "target": {
+    "width": 1080,
+    "height": 1920,
+    "test_seconds": 6,
+    "sales_video_seconds": 18
+  },
+  "identity_rule": "Use model 2 only. Preserve face, hair and body identity. Product outfit must come from verified product references; accessories in model reference are not automatically part of the product.",
+  "status": "prepared; not submitted to video generation"
+}

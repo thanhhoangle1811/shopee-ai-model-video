@@ -1,0 +1,137 @@
+[
+  {
+    "path": "data/model/model 2/01_chan_dung_chinh_dien.png",
+    "width": 1122,
+    "height": 1402,
+    "bytes": 2363454,
+    "sha256": "30a230e21e89c996803845142f9108f5a8b6abdbf0c863c3f4ca2c1bce0f80bc",
+    "png_check": "CRC and IDAT decompression passed",
+    "readable": true
+  },
+  {
+    "path": "data/model/model 2/02_chan_dung_3_4_trai.png",
+    "width": 1122,
+    "height": 1402,
+    "bytes": 2399220,
+    "sha256": "ea72e75371cb70f26e91aaeeb380d453304aba58d41447f825d9c9d27108c48b",
+    "png_check": "CRC and IDAT decompression passed",
+    "readable": true
+  },
+  {
+    "path": "data/model/model 2/03_chan_dung_3_4_phai.png",
+    "width": 1122,
+    "height": 1402,
+    "bytes": 2285436,
+    "sha256": "113981d1715215774da4bc8e3d2b2f2f8326216434e3388cac720200a0a26537",
+    "png_check": "CRC and IDAT decompression passed",
+    "readable": true
+  },
+  {
+    "path": "data/model/model 2/04_chan_dung_nghieng_trai.png",
+    "width": 1122,
+    "height": 1402,
+    "bytes": 2084523,
+    "sha256": "9a7fe08ba9de9504a5299e00c0245abdf1852365830ed55e25fd894c3efb3076",
+    "png_check": "CRC and IDAT decompression passed",
+    "readable": true
+  },
+  {
+    "path": "data/model/model 2/05_chan_dung_nghieng_phai.png",
+    "width": 1122,
+    "height": 1402,
+    "bytes": 2148786,
+    "sha256": "8c9a767fdb29034be76b191aa3612ffb0c80724f9d2a2c0e0dc0c2d3f691cd7b",
+    "png_check": "CRC and IDAT decompression passed",
+    "readable": true
+  },
+  {
+    "path": "data/model/model 2/06_toan_than_chinh_dien.png",
+    "width": 1024,
+    "height": 1536,
+    "bytes": 1685095,
+    "sha256": "0b092e7541f4552ae9fc76037a97e04cf77ac914f31029f169697ef7692468b0",
+    "png_check": "CRC and IDAT decompression passed",
+    "readable": true
+  },
+  {
+    "path": "data/model/model 2/07_toan_than_nghieng.png",
+    "width": 1024,
+    "height": 1536,
+    "bytes": 1640460,
+    "sha256": "309abc0684a939c3d77e02e3caaba9783ced163f572c322f505a01b732fe6fac",
+    "png_check": "CRC and IDAT decompression passed",
+    "readable": true
+  },
+  {
+    "path": "data/model/model 2/08_toan_than_phia_sau.png",
+    "width": 1024,
+    "height": 1536,
+    "bytes": 1670305,
+    "sha256": "36b6b61ddb2b33e08a9bca6696b48fb37eaaa59132a488dba3540b578c48d90e",
+    "png_check": "CRC and IDAT decompression passed",
+    "readable": true
+  },
+  {
+    "path": "data/model/original/face/original_model_v1_face_back.png",
+    "width": 1086,
+    "height": 1448,
+    "bytes": 2181452,
+    "sha256": "208c690356526eacaf855c6b6655c0621cc770e3f4cb19ad55fa3e8e69b09bc6",
+    "png_check": "CRC and IDAT decompression passed",
+    "readable": true
+  },
+  {
+    "path": "data/model/original/face/original_model_v1_face_front.png",
+    "width": 1086,
+    "height": 1448,
+    "bytes": 2567889,
+    "sha256": "b546b9f5a825e3adb99640412490fad680903e45fa74251631dac4981885dd72",
+    "png_check": "CRC and IDAT decompression passed",
+    "readable": true
+  },
+  {
+    "path": "data/model/original/face/original_model_v1_face_left_3q.png",
+    "width": 1086,
+    "height": 1448,
+    "bytes": 2464349,
+    "sha256": "342da008bf9c0a98a2835c55c41fe0fdc254758452ac1ea963370769d0b647c9",
+    "png_check": "CRC and IDAT decompression passed",
+    "readable": true
+  },
+  {
+    "path": "data/model/original/face/original_model_v1_face_right_3q.png",
+    "width": 1086,
+    "height": 1448,
+    "bytes": 2487956,
+    "sha256": "bde9ba3ea7c0aa1e6dc4431b99080e11b41259646432c4b03e3fdf671b313996",
+    "png_check": "CRC and IDAT decompression passed",
+    "readable": true
+  },
+  {
+    "path": "data/model/original/face/original_model_v1_face_sheet_v1.png",
+    "width": 4344,
+    "height": 1448,
+    "bytes": 13668118,
+    "sha256": "332d53e4bb227775a493092edc993af960f64387ebec708638727b700cf96549",
+    "png_check": "CRC and IDAT decompression passed",
+    "readable": true
+  },
+  {
+    "path": "data/model/original/original_model_v1_character_sheet_v1.png",
+    "width": 1536,
+    "height": 1024,
+    "bytes": 1874316,
+    "sha256": "95d763f841d65604ac1e7766761e79c798ab8068d40a12471d6930d9a4041af2",
+    "png_check": "CRC and IDAT decompression passed",
+    "readable": true
+  },
+  {
+    "path": "data/model/original/original_model_v1_reference.png",
+    "width": 1024,
+    "height": 1536,
+    "bytes": 1679702,
+    "sha256": "ab5236ea3faa5c3aa0a3f24f5ffddf0f3958985392c91578db7678848a8b8dff",
+    "png_check": "CRC and IDAT decompression passed",
+    "readable": true
+  }
+]
